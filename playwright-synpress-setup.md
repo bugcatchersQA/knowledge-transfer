@@ -8,7 +8,6 @@
 -   [New Node project](#new-node-project)
 -   [Playwright installation](#playwright-installation)
 -   [Synpress installation](#synpress-installation)
--   [Test Development Guidelines](#test-development-guidelines)
 
 ## Description
 
